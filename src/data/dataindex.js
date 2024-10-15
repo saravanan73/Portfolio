@@ -5,6 +5,7 @@ export const  skills = [
     {"src":"/src/assets/js.png","title":"Java Script"},
     {"src":"/src/assets/bootstrap.png","title":"Bootstrap"},
     {"src":"/src/assets/reactjs1.svg","title":"React JS"},
+    {"src":"/src/assets/vuejs.png","title":"Vue JS"},
     {"src":"/src/assets/python1.png","title":"Python"},
     {"src":"/src/assets/sql.png","title":"SQL"},
     {"src":"/src/assets/postgres1.png","title":"Postgres"},
@@ -15,5 +16,7 @@ export const history = [
 ]
 
 export const project_details_ = [
-    {"imagesrc":"/src/assets/","title":"ZebuWebside","skills":["Next js","mui"],}
+    {"imagesrc":"/src/assets/project21.png","title":"Collection","skills":["Vue js","Python","Flask"],"demo":"https://app.mynt.in/collection/","source":"https://github.com/saravananr7/collection.git","descrip":"Unlock real-time data insights with a sleek, intuitive interface powered by Flask, Pandas, and Vuetify"},
+    {"imagesrc":"/src/assets/project1.png","title":"Zebu Web side","skills":["React js","MUI"],"demo":"https://zebuwebpage.web.app/","source":"https://github.com/saravananr7/Zebu_invest_web_page.git","descrip":"React framework, along with React.js and Material UI (MUI) for fast performance, modern UI components."},
+    {"imagesrc":"/src/assets/project31.png","title":"Ekyc","skills":["Python","Flask","Sqlite"],"demo":"https://oa.mynt.in/","source":"https://github.com/saravananr7/Zebu_invest_web_page.git","descrip":"Streamlining eKYC verification with secure, efficient backend API services using Flask and SQLite."},
 ]
