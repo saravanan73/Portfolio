@@ -18,7 +18,7 @@ const About = () => {
                 <i className="fa-solid fa-computer"></i>
                 <div>
                         <h3>Backend Developer</h3>
-                        <p>I have expertise in Flask for building efficient APIs.Skilled in ntegration of third-party services.</p>
+                        <p>I have expertise in Flask for building efficient APIs.Skilled integration of third-party services.</p>
                     </div>
                 </li>
                 <li className="about__item">
